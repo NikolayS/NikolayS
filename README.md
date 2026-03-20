@@ -31,7 +31,7 @@ Currently building tools to make Postgres self-driving.
 
 ## GitLab contributions
 
-- [GitLab contributor since 2018](https://contributors.gitlab.com/users/NikolayS?fromDate=2017-10-15&toDate=) — patches and reviews to GitLab itself (GitLab runs Postgres, and they are PostgresAI's customer)
+- [GitLab contributor since 2018*](https://contributors.gitlab.com/users/NikolayS?fromDate=2017-10-15&toDate=) — patches and reviews to GitLab itself (GitLab runs Postgres, and they are PostgresAI's customer)
 - [NikolayS](https://gitlab.com/NikolayS) on GitLab
 
 ## Writing & community
