@@ -2,7 +2,7 @@
 
 Postgres since 2003 · Founder of [PostgresAI](https://postgres.ai) · San Diego, CA
 
-I go deep on Postgres internals — locking, vacuuming, wait events, query performance at scale.
+Key interests: zero-downtime operations, experiments, benchmarks, and making DB testing fast and affordable — scaling not only Postgres but also the operations and teams around it — and RCAs.
 Currently building tools to make Postgres self-driving.
 
 ## Projects
