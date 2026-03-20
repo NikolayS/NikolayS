@@ -22,7 +22,7 @@ Currently building tools to make Postgres self-driving.
 - [PostgresAI Monitoring and Checkup](https://github.com/postgres-ai/postgresai) — Postgres observability built for humans and AI agents
 - [DBLab Engine](https://github.com/postgres-ai/database-lab-engine) — Database branching & thin cloning for any Postgres database
 
-## PostgreSQL contributions
+## Postgres contributions
 
 - [Postgres Hacking sessions](https://www.youtube.com/playlist?list=PLH8y1BNPAKjKDdJA7sDmFWUkbbYux3TRz) — live deep-dives on Postgres internals on PostgresTV
 - [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
