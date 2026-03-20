@@ -2,7 +2,7 @@
 
 Postgres since 2003 · Founder of [PostgresAI](https://postgres.ai) · San Diego, CA
 
-Key interests: zero-downtime operations, experiments, benchmarks, and making DB testing fast and affordable — scaling not only Postgres but also the operations and teams around it — and RCAs.
+Key interests: database health in all its aspects, zero-downtime operations, experiments, benchmarks, and making DB testing fast and affordable — scaling not only Postgres but also the operations and teams around it — and RCAs.
 Currently building tools to make Postgres self-driving.
 
 ## Projects
