@@ -35,4 +35,4 @@ Currently building tools to make Postgres self-driving.
 - [PostgresFM](https://postgres.fm) — podcast
 - [PostgresTV](https://youtube.com/@PostgresTV) — YouTube
 - [@samokhvalov](https://x.com/samokhvalov) on X
-- [NikolayS](https://gitlab.com/NikolayS) on GitLab — primary home for PostgresAI repos, active for many years
+- [NikolayS](https://gitlab.com/NikolayS) on GitLab — where most PostgresAI development happens; GitLab contributor and long-time advocate (GitLab runs Postgres, and they are our customer)
