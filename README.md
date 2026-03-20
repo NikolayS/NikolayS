@@ -7,7 +7,7 @@ Currently building tools to make Postgres self-driving.
 
 ## Projects
 
-**My tools**
+**Current open-source projects**
 - [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for PostgreSQL — wait event sampling with zero bloat (pg_cron + PGQ-style partition rotation)
 - [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
 - [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible PostgreSQL migration tool with static analysis and zero-downtime migrations
