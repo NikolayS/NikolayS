@@ -20,7 +20,7 @@ Currently building tools to make Postgres self-driving.
 ## PostgreSQL Contributions
 
 - [GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support): SQL/XML 2003 support (mentored by Peter Eisentraut) — my first deep dive into Postgres internals
-- Annual contributor since ~2019: small patches, reviews, commitfest participation ([contributor profile](https://www.postgresql.org/community/contributors/))
+- [Recognized contributor](https://www.postgresql.org/community/contributors/) to PostgreSQL core — patches and reviews across multiple releases
 - [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented PostgreSQL wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
 - [Postgres Hacking sessions](https://www.youtube.com/@PostgresTV) — live deep-dives on PostgreSQL internals on PostgresTV
 
