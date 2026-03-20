@@ -1,8 +1,8 @@
-# Hi, I'm Nik 👋
+# Hi, I'm Nik
 
 Postgres since 2003 · Founder of [PostgresAI](https://postgres.ai) · San Diego, CA
 
-I go deep on PostgreSQL internals — locking, vacuuming, wait events, query performance at scale.
+I go deep on Postgres internals — locking, vacuuming, wait events, query performance at scale.
 Currently building tools to make Postgres self-driving.
 
 ## Projects
@@ -19,10 +19,10 @@ Currently building tools to make Postgres self-driving.
 
 ## PostgreSQL Contributions
 
+- [Postgres Hacking sessions](https://www.youtube.com/playlist?list=PLH8y1BNPAKjKDdJA7sDmFWUkbbYux3TRz) — live deep-dives on Postgres internals on PostgresTV
+- [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
+- [Recognized contributor](https://www.postgresql.org/community/contributors/) to Postgres core — patches and reviews across multiple releases
 - [GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support): SQL/XML 2003 support (mentored by Peter Eisentraut) — my first deep dive into Postgres internals
-- [Recognized contributor](https://www.postgresql.org/community/contributors/) to PostgreSQL core — patches and reviews across multiple releases
-- [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented PostgreSQL wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
-- [Postgres Hacking sessions](https://www.youtube.com/playlist?list=PLH8y1BNPAKjKDdJA7sDmFWUkbbYux3TRz) — live deep-dives on PostgreSQL internals on PostgresTV
 
 ## Writing & Community
 
@@ -31,4 +31,3 @@ Currently building tools to make Postgres self-driving.
 - [PostgresTV](https://youtube.com/@PostgresTV) — YouTube
 - [@samokhvalov](https://x.com/samokhvalov) on X
 - [NikolayS](https://gitlab.com/NikolayS) on GitLab — primary home for PostgresAI repos, active for many years
-
