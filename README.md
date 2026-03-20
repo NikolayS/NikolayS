@@ -17,6 +17,13 @@ Currently building tools to make Postgres self-driving.
 - [PostgresAI Monitoring and Checkup](https://github.com/postgres-ai/postgresai) — Postgres observability built for humans and AI agents
 - [DBLab Engine](https://github.com/postgres-ai/database-lab-engine) — Database branching & thin cloning for any Postgres database
 
+## PostgreSQL Contributions
+
+- [GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support): SQL/XML 2003 support (mentored by Peter Eisentraut) — my first deep dive into Postgres internals
+- Annual contributor since ~2019: small patches, reviews, commitfest participation ([contributor profile](https://www.postgresql.org/community/contributors/))
+- [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented PostgreSQL wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
+- [Postgres Hacking sessions](https://www.youtube.com/@PostgresTV) — live deep-dives on PostgreSQL internals on PostgresTV
+
 ## Writing & Community
 
 - [#PostgresMarathon](https://postgres.ai/blog) — deep-dive series on Postgres internals
