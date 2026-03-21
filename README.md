@@ -34,6 +34,12 @@ Currently building tools to make [Postgres self-driving](https://samo.sh).
 - [GitLab contributor since 2018*](https://contributors.gitlab.com/users/NikolayS?fromDate=2017-10-15&toDate=) — patches and reviews to GitLab itself (GitLab runs Postgres, and they are PostgresAI's customer)
 - [NikolayS](https://gitlab.com/NikolayS) on GitLab
 
+## Gitzette
+
+[gitzette.online](https://gitzette.online) — weekly open-source digest auto-generated from GitHub activity, rendered as a newspaper.
+
+- [My digest](https://nikolays.github.io/dispatch/) — Vol. 1, No. 2: rpg hits v0.8.0, sqlever ships an analysis engine, a pgMustard key gets leaked by an AI agent
+
 ## Writing & community
 
 - [#PostgresMarathon](https://postgres.ai/blog) — deep-dive series on Postgres internals
