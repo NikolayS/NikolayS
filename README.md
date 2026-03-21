@@ -17,7 +17,7 @@ Currently building tools to make [Postgres self-driving](https://samo.sh).
 - [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
 - [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible PostgreSQL migration tool with static analysis and zero-downtime migrations
 - [postgres_dba](https://github.com/NikolayS/postgres_dba) — The missing set of useful tools for Postgres DBAs and all engineers
-- [gitzette](https://github.com/NikolayS/gitzette) — weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online/NikolayS))
+- [gitzette](https://github.com/NikolayS/gitzette) — weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online))
 
 **PostgresAI**
 - [PostgresAI Monitoring and Checkup](https://github.com/postgres-ai/postgresai) — Postgres observability built for humans and AI agents
