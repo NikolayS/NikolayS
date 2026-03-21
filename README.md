@@ -17,6 +17,7 @@ Currently building tools to make [Postgres self-driving](https://samo.sh).
 - [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
 - [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible PostgreSQL migration tool with static analysis and zero-downtime migrations
 - [postgres_dba](https://github.com/NikolayS/postgres_dba) — The missing set of useful tools for Postgres DBAs and all engineers
+- [gitzette](https://gitzette.online) — weekly open-source digest auto-generated from GitHub activity, rendered as a newspaper ([example](https://nikolays.github.io/dispatch/))
 
 **PostgresAI**
 - [PostgresAI Monitoring and Checkup](https://github.com/postgres-ai/postgresai) — Postgres observability built for humans and AI agents
@@ -33,12 +34,6 @@ Currently building tools to make [Postgres self-driving](https://samo.sh).
 
 - [GitLab contributor since 2018*](https://contributors.gitlab.com/users/NikolayS?fromDate=2017-10-15&toDate=) — patches and reviews to GitLab itself (GitLab runs Postgres, and they are PostgresAI's customer)
 - [NikolayS](https://gitlab.com/NikolayS) on GitLab
-
-## Gitzette
-
-[gitzette.online](https://gitzette.online) — weekly open-source digest auto-generated from GitHub activity, rendered as a newspaper.
-
-- [My digest](https://nikolays.github.io/dispatch/) — Vol. 1, No. 2: rpg hits v0.8.0, sqlever ships an analysis engine, a pgMustard key gets leaked by an AI agent
 
 ## Writing & community
 
