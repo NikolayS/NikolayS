@@ -8,7 +8,7 @@ Key interests:
 - Scaling not only Postgres but also the operations and teams around it
 - RCAs
 
-Currently building tools to make Postgres self-driving.
+Currently building tools to make [Postgres self-driving](https://postgres.ai/blog/20250725-self-driving-postgres).
 
 ## Projects
 
