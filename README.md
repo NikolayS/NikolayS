@@ -1,6 +1,6 @@
 # Hi, I'm Nik
 
-Postgres since 2003 · Founder of [PostgresAI](https://postgres.ai) · San Diego, CA
+Postgres since 2005 · Founder of [PostgresAI](https://postgres.ai) · San Diego, CA
 
 Key interests:
 - Database health in all its aspects
