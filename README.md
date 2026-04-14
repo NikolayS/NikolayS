@@ -13,7 +13,7 @@ Currently building tools to make [Postgres self-driving](https://samo.sh).
 ## Projects
 
 **Current open-source projects**
-- [pgque](https://github.com/NikolayS/pgque) — [PgQ](https://github.com/pgq/pgq), universal edition. Zero-bloat Postgres queue. No extensions. No daemon. One SQL file.
+- [pgque](https://github.com/NikolayS/pgque) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
 - [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat (pg_cron + PGQ-style partition rotation)
 - [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
 - [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations
