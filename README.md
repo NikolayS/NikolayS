@@ -2,6 +2,11 @@
 
 San Diego ↔ San Francisco · Postgres since 2005 · Founder of [PostgresAI](https://postgres.ai/)
 
+![Postgres since 2005](https://img.shields.io/badge/Postgres%20since-2005-336791?style=flat-square)
+![Founder](https://img.shields.io/badge/Founder-PostgresAI-222222?style=flat-square)
+![Startups](https://img.shields.io/badge/Startups-Builder-6f42c1?style=flat-square)
+![Location](https://img.shields.io/badge/San%20Diego%20%E2%86%94%20San%20Francisco-CA-555555?style=flat-square)
+
 Key interests:
 - Database health in all its aspects
 - Zero-downtime operations, experiments, benchmarks, making DB testing fast and affordable (e.g., [zero-downtime Postgres upgrades at GitLab](https://pganalyze.com/blog/5mins-postgres-zero-downtime-upgrades-logical-replication))
