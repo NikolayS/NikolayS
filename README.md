@@ -13,14 +13,14 @@ Currently building tools to make [Postgres self-driving](https://samo.sh).
 ## Projects
 
 **Current open-source projects**
-- ![⭐](https://img.shields.io/github/stars/NikolayS/pgque?style=flat-square) [pgque](https://github.com/NikolayS/pgque) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
-- ![⭐](https://img.shields.io/github/stars/NikolayS/pg_ash?style=flat-square) [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat (pg_cron + PGQ-style partition rotation)
-- ![⭐](https://img.shields.io/github/stars/NikolayS/rpg?style=flat-square) [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
-- ![⭐](https://img.shields.io/github/stars/NikolayS/sqlever?style=flat-square) [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations
-- ![⭐](https://img.shields.io/github/stars/NikolayS/postgres_dba?style=flat-square) [postgres_dba](https://github.com/NikolayS/postgres_dba) — The missing set of useful tools for Postgres DBAs and all engineers
-- ![⭐](https://img.shields.io/github/stars/NikolayS/pg_plumbing?style=flat-square) [pg_plumbing](https://github.com/NikolayS/pg_plumbing) — Postgres schema extraction and restoration plumbing
-- ![⭐](https://img.shields.io/github/stars/NikolayS/leandex?style=flat-square) [leandex](https://github.com/NikolayS/leandex) — Lean index analysis for Postgres
-- ![⭐](https://img.shields.io/github/stars/NikolayS/gitzette?style=flat-square) [gitzette](https://github.com/NikolayS/gitzette) — weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online))
+- ![⭐](https://img.shields.io/github/stars/NikolayS/pgque?style=flat-square&label=%E2%AD%90) [pgque](https://github.com/NikolayS/pgque) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
+- ![⭐](https://img.shields.io/github/stars/NikolayS/pg_ash?style=flat-square&label=%E2%AD%90) [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat (pg_cron + PGQ-style partition rotation)
+- ![⭐](https://img.shields.io/github/stars/NikolayS/rpg?style=flat-square&label=%E2%AD%90) [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
+- ![⭐](https://img.shields.io/github/stars/NikolayS/sqlever?style=flat-square&label=%E2%AD%90) [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations
+- ![⭐](https://img.shields.io/github/stars/NikolayS/postgres_dba?style=flat-square&label=%E2%AD%90) [postgres_dba](https://github.com/NikolayS/postgres_dba) — The missing set of useful tools for Postgres DBAs and all engineers
+- ![⭐](https://img.shields.io/github/stars/NikolayS/pg_plumbing?style=flat-square&label=%E2%AD%90) [pg_plumbing](https://github.com/NikolayS/pg_plumbing) — Postgres schema extraction and restoration plumbing
+- ![⭐](https://img.shields.io/github/stars/NikolayS/leandex?style=flat-square&label=%E2%AD%90) [leandex](https://github.com/NikolayS/leandex) — Lean index analysis for Postgres
+- ![⭐](https://img.shields.io/github/stars/NikolayS/gitzette?style=flat-square&label=%E2%AD%90) [gitzette](https://github.com/NikolayS/gitzette) — weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online))
 
 **PostgresAI**
 - [PostgresAI Monitoring and Checkup](https://github.com/postgres-ai/postgresai) — Postgres observability built for humans and AI agents
