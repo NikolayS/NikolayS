@@ -2,51 +2,39 @@
 
 San Diego ↔ San Francisco · Postgres since 2005 · Founder of [PostgresAI](https://postgres.ai/)
 
-![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square)
-![Scalability](https://img.shields.io/badge/Scalability-1f6feb?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-2da44e?style=flat-square)
-![Startups](https://img.shields.io/badge/Startups-6f42c1?style=flat-square)
+🐘 Postgres · 📈 Scalability · 🌍 Open Source · 🚀 Startups
 
-Key interests:
-- Database health in all its aspects
-- Zero-downtime operations, experiments, benchmarks, making DB testing fast and affordable (e.g., [zero-downtime Postgres upgrades at GitLab](https://pganalyze.com/blog/5mins-postgres-zero-downtime-upgrades-logical-replication))
-- Scaling not only Postgres but also the operations and teams around it
-- RCAs
+I build tools, write, and go deep on Postgres internals, performance, and operations.
 
-Currently building tools to make [Postgres self-driving](https://samo.sh).
+## Selected projects
 
-## Projects
+- 🧵 [pgque](https://github.com/NikolayS/pgque) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
+- ⏱️ [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
+- 🖥️ [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant.
+- 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
+- 🔧 [postgres_dba](https://github.com/NikolayS/postgres_dba) — Practical Postgres DBA tools for debugging, maintenance, and operations.
+- 🚰 [pg_plumbing](https://github.com/NikolayS/pg_plumbing) — Postgres schema extraction and restoration plumbing.
+- 🪶 [leandex](https://github.com/NikolayS/leandex) — Lean index analysis for Postgres.
+- 📝 [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement.
+- 🗞️ [gitzette](https://github.com/NikolayS/gitzette) — Weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online)).
 
-**Current open-source projects**
-- [pgque](https://github.com/NikolayS/pgque) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
-- [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat (pg_cron + PGQ-style partition rotation)
-- [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant
-- [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations
-- [postgres_dba](https://github.com/NikolayS/postgres_dba) — The missing set of useful tools for Postgres DBAs and all engineers
-- [pg_plumbing](https://github.com/NikolayS/pg_plumbing) — Postgres schema extraction and restoration plumbing
-- [leandex](https://github.com/NikolayS/leandex) — Lean index analysis for Postgres
-- [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement
-- [gitzette](https://github.com/NikolayS/gitzette) — weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online))
+## PostgresAI
 
-**PostgresAI**
-- [PostgresAI Monitoring and Checkup](https://github.com/postgres-ai/postgresai) — Postgres observability built for humans and AI agents
-- [DBLab Engine](https://github.com/postgres-ai/database-lab-engine) — Database branching & thin cloning for any Postgres database
+Building software for self-driving Postgres.
+
+- [PostgresAI Monitoring and Checkup](https://github.com/postgres-ai/postgresai) — Postgres observability built for humans and AI agents.
+- [DBLab Engine](https://github.com/postgres-ai/database-lab-engine) — Database branching & thin cloning for any Postgres database.
 
 ## Postgres contributions
 
-- [Postgres Hacking sessions](https://www.youtube.com/playlist?list=PLH8y1BNPAKjKDdJA7sDmFWUkbbYux3TRz) — live deep-dives on Postgres internals on PostgresTV
-- [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
-- [Recognized contributor](https://www.postgresql.org/community/contributors/) to Postgres core — patches and reviews across multiple releases
-- [GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support): SQL/XML 2003 support (mentored by Peter Eisentraut) — my first deep dive into Postgres internals
-
-## GitLab contributions
-
-- [GitLab contributor since 2018*](https://contributors.gitlab.com/users/NikolayS?fromDate=2017-10-15&toDate=) — patches and reviews to GitLab itself (GitLab runs Postgres, and they are PostgresAI's customer)
-- [NikolayS](https://gitlab.com/NikolayS) on GitLab
+- 🎥 [Postgres Hacking sessions](https://www.youtube.com/playlist?list=PLH8y1BNPAKjKDdJA7sDmFWUkbbYux3TRz) — live deep-dives on Postgres internals on PostgresTV
+- ⏳ [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
+- 🧠 [Recognized contributor](https://www.postgresql.org/community/contributors/) to Postgres core — patches and reviews across multiple releases
+- 📜 [GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support) — SQL/XML 2003 support (mentored by Peter Eisentraut) — my first deep dive into Postgres internals
 
 ## Writing & community
 
-- [#PostgresMarathon](https://postgres.ai/blog) — deep-dive series on Postgres internals
-- [PostgresFM](https://postgres.fm) — podcast
-- [PostgresTV](https://youtube.com/@PostgresTV) — YouTube
-- [@samokhvalov](https://x.com/samokhvalov) on X
+- ✍️ [#PostgresMarathon](https://postgres.ai/blog) — deep-dive series on Postgres internals
+- 🎙️ [PostgresFM](https://postgres.fm) — podcast
+- 📺 [PostgresTV](https://youtube.com/@PostgresTV) — YouTube
+- 🐦 [@samokhvalov](https://x.com/samokhvalov) on X
