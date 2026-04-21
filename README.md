@@ -25,6 +25,7 @@ Currently building tools to make [Postgres self-driving](https://samo.sh).
 - [postgres_dba](https://github.com/NikolayS/postgres_dba) — The missing set of useful tools for Postgres DBAs and all engineers
 - [pg_plumbing](https://github.com/NikolayS/pg_plumbing) — Postgres schema extraction and restoration plumbing
 - [leandex](https://github.com/NikolayS/leandex) — Lean index analysis for Postgres
+- [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement
 - [gitzette](https://github.com/NikolayS/gitzette) — weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online))
 
 **PostgresAI**
