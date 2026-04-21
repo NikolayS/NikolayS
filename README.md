@@ -9,7 +9,7 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 ## Selected projects
 
 - 🧵 [pgque](https://github.com/NikolayS/pgque) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
-- ⏱️ [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
+- 🌈 [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
 - 🖥️ [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant.
 - 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
 - 🔧 [postgres_dba](https://github.com/NikolayS/postgres_dba) — Practical Postgres DBA tools for debugging, maintenance, and operations.
@@ -28,7 +28,7 @@ Building software for self-driving Postgres.
 ## Postgres contributions
 
 - 🎥 [Postgres Hacking sessions](https://www.youtube.com/playlist?list=PLH8y1BNPAKjKDdJA7sDmFWUkbbYux3TRz) — live deep-dives on Postgres internals on PostgresTV
-- ⏳ [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
+- 📊 [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
 - 🧠 [Recognized contributor](https://www.postgresql.org/community/contributors/) to Postgres core — patches and reviews across multiple releases
 - 📜 [GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support) — SQL/XML 2003 support (mentored by Peter Eisentraut) — my first deep dive into Postgres internals
 
