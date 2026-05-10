@@ -9,6 +9,7 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 ## Selected projects
 
 - 🧵 [pgque](https://github.com/NikolayS/pgque) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
+- 📊 [pgseries](https://github.com/NikolayS/pgseries) — Postgres time-series project.
 - 🌈 [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
 - 🖥️ [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant.
 - 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
