@@ -17,6 +17,7 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 - 🚰 [pg_plumbing](https://github.com/NikolayS/pg_plumbing) — Modern Postgres dump/restore on steroids.
 - 🪶 [leandex](https://github.com/NikolayS/leandex) — keep your Postgres indexes lean.
 - 📝 [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement.
+- 🤖 [samoagent](https://github.com/NikolayS/samoagent) — CLI meeting AI agent for Zoom and Google Meet: joins calls, transcribes live speech, and lets AI agents monitor and react.
 - 🗞️ [gitzette](https://github.com/NikolayS/gitzette) — Weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online)).
 
 ## PostgresAI
