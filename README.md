@@ -46,4 +46,5 @@ Building software for self-driving Postgres.
 - ✍️ [#PostgresMarathon](https://postgres.ai/blog) — deep-dive series on Postgres internals
 - 🎙️ [PostgresFM](https://postgres.fm) — podcast
 - 📺 [PostgresTV](https://youtube.com/@PostgresTV) — YouTube
+- 💼 [Nik Samokhvalov](https://www.linkedin.com/in/samokhvalov) on LinkedIn
 - 🐦 [@samokhvalov](https://x.com/samokhvalov) on X
