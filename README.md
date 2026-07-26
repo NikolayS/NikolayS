@@ -14,11 +14,11 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 - 🌿 [samogrow](https://github.com/NikolayS/samogrow) — A self-hosted, AI-controlled indoor herb garden built from a camera, smart plugs, and one Bun service ([brief](https://nikolays.github.io/samogrow/)).
 - 🏠 [samohost](https://github.com/NikolayS/samohost) — Operator-local CLI for provisioning hardened Linux VMs, deploying apps, and creating per-branch preview environments.
 - 🎥 [samograph](https://github.com/NikolayS/samograph) — Lets AI agents join Zoom and Google Meet calls to listen, respond, and take action in real time.
+- 📝 [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement.
 - 🛠️ [Hacking Postgres](https://github.com/NikolayS/hacking-postgres) — Public workbench for Postgres hacking sessions, patches, progress, blockers, and TODOs ([live](https://hacking.postgres.tv/)).
 - 🖥️ [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant.
 - 🔧 [postgres_dba](https://github.com/NikolayS/postgres_dba) — Practical Postgres DBA tools for debugging, maintenance, and operations.
 - 🪶 [leandex](https://github.com/NikolayS/leandex) — keep your Postgres indexes lean.
-- 📝 [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement.
 - 🗞️ [gitzette](https://github.com/NikolayS/gitzette) — Weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online)).
 
 ### PoCs and prototypes
