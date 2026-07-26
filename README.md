@@ -47,4 +47,6 @@ Building software for self-driving Postgres.
 - 🎙️ [PostgresFM](https://postgres.fm) — podcast
 - 📺 [PostgresTV](https://youtube.com/@PostgresTV) — YouTube
 - 💼 [Nik Samokhvalov](https://www.linkedin.com/in/samokhvalov) on LinkedIn
+- 🐙 [GitHub](https://github.com/NikolayS) — this page
+- 🦊 [GitLab](https://gitlab.com/NikolayS) profile
 - 🐦 [@samokhvalov](https://x.com/samokhvalov) on X
