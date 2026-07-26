@@ -37,7 +37,7 @@ Building software for self-driving Postgres.
 ## Postgres contributions
 
 - 🎥 [Postgres Hacking sessions](https://www.youtube.com/playlist?list=PLH8y1BNPAKjKDdJA7sDmFWUkbbYux3TRz) — live deep-dives on Postgres internals on PostgresTV
-- 📊 [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events; now a [GSoC 2026 project](https://wiki.postgresql.org/wiki/GSoC_2026) where I'm mentoring
+- 📊 [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events
 - 🧠 [Recognized contributor](https://www.postgresql.org/community/contributors/) to Postgres core — patches and reviews across multiple releases
 - 📜 [GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support) — SQL/XML 2003 support (mentored by Peter Eisentraut) — my first deep dive into Postgres internals
 
