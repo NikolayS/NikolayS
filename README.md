@@ -8,17 +8,25 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 
 ## Selected projects
 
+- 🏙️ [PGSimCity](https://github.com/NikolayS/PGSimCity) — An explorable 3D city that shows how Postgres actually works ([live](https://nikolays.github.io/PGSimCity/)).
+- 🌿 [samogrow](https://github.com/NikolayS/samogrow) — A self-hosted, AI-controlled indoor herb garden built from a camera, smart plugs, and one Bun service ([brief](https://nikolays.github.io/samogrow/)).
+- 🏠 [samohost](https://github.com/NikolayS/samohost) — Operator-local CLI for provisioning hardened Linux VMs, deploying apps, and creating per-branch preview environments.
+- 🎥 [samograph](https://github.com/NikolayS/samograph) — Lets AI agents join Zoom and Google Meet calls to listen, respond, and take action in real time.
+- 🛠️ [Hacking Postgres](https://github.com/NikolayS/hacking-postgres) — Public workbench for Postgres hacking sessions, patches, progress, blockers, and TODOs ([live](https://hacking.postgres.tv/)).
 - 🧵 [pgque](https://github.com/NikolayS/pgque) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
-- 📊 [pgseries](https://github.com/NikolayS/pgseries) — A light alternative to TimescaleDB that works in any Postgres: pure SQL/PLpgSQL time-series for PG17+ ([brief](https://nikolays.github.io/pgseries/)).
 - 🌈 [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
 - 🖥️ [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant.
-- 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
 - 🔧 [postgres_dba](https://github.com/NikolayS/postgres_dba) — Practical Postgres DBA tools for debugging, maintenance, and operations.
-- 🚰 [pg_plumbing](https://github.com/NikolayS/pg_plumbing) — Modern Postgres dump/restore on steroids.
 - 🪶 [leandex](https://github.com/NikolayS/leandex) — keep your Postgres indexes lean.
 - 📝 [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement.
 - 🤖 [samoagent](https://github.com/NikolayS/samoagent) — CLI meeting AI agent for Zoom and Google Meet: joins calls, transcribes live speech, and lets AI agents monitor and react.
 - 🗞️ [gitzette](https://github.com/NikolayS/gitzette) — Weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online)).
+
+### PoCs and prototypes
+
+- 🛑 [pg_brakes](https://github.com/NikolayS/pg_brakes) — Rust safety gateway between AI agents and Postgres, with bounded reads, certified writes, human approval, and tamper-evident auditing.
+- 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
+- 📊 [pgseries](https://github.com/NikolayS/pgseries) — A light alternative to TimescaleDB that works in any Postgres: pure SQL/PLpgSQL time-series for PG17+ ([brief](https://nikolays.github.io/pgseries/)).
 
 ## PostgresAI
 
