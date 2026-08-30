@@ -12,7 +12,6 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 - 🌈 [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
 - 🏙️ [PGSimCity](https://github.com/NikolayS/PGSimCity) — An explorable 3D city that shows how Postgres actually works ([live](https://nikolays.github.io/PGSimCity/)).
 - 🌿 [samogrow](https://github.com/NikolayS/samogrow) — A self-hosted, AI-controlled indoor herb garden built from a camera, smart plugs, and one Bun service ([brief](https://nikolays.github.io/samogrow/)).
-- ☕ [simbucks](https://github.com/NikolayS/simbucks) — A first-person barista simulator in the browser: run an airport coffee kiosk through the morning rush ([play](https://nikolays.github.io/simbucks/)).
 - 🖥️ [samohost](https://github.com/NikolayS/samohost) — Operator-local CLI for provisioning hardened Linux VMs, deploying apps, and creating per-branch preview environments.
 - 🎥 [samograph](https://github.com/NikolayS/samograph) — Lets AI agents join Zoom and Google Meet calls to listen, respond, and take action in real time.
 - 📝 [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement.
@@ -21,6 +20,7 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 - 🔧 [postgres_dba](https://github.com/NikolayS/postgres_dba) — Practical Postgres DBA tools for debugging, maintenance, and operations.
 - 🪶 [leandex](https://github.com/NikolayS/leandex) — keep your Postgres indexes lean.
 - 🗞️ [gitzette](https://github.com/NikolayS/gitzette) — Weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online)).
+- ☕ [simbucks](https://github.com/NikolayS/simbucks) — A first-person barista simulator in the browser: run an airport coffee kiosk through the morning rush ([play](https://nikolays.github.io/simbucks/)).
 
 ### PoCs and prototypes
 
