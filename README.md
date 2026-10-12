@@ -1,48 +1,54 @@
 # Hi, I'm Nik
 
-Founder of [PostgresAI](https://postgres.ai/) · Postgres since 2005 · San Diego ↔ San Francisco
+San Diego ↔ San Francisco · Postgres since 2005 · Founder of [PostgresAI](https://postgres.ai/)
 
-I help engineering teams improve Postgres performance, reliability, and scalability. At PostgresAI, we're building self-driving Postgres through monitoring, health checks, and safe database branching.
+🐘 Postgres · 📈 Scalability · 🌍 Open Source · 🚀 Startups
 
-**Need help with your Postgres? [Let's talk](mailto:nik@postgres.ai).**
+I build tools, write, and go deep on Postgres internals, performance, and operations.
+
+## Selected projects
+
+- 🧵 [PgQue](https://github.com/NikolayS/PgQue) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
+- 🌈 [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
+- 🏙️ [PGSimCity](https://github.com/NikolayS/PGSimCity) — An explorable 3D city that shows how Postgres actually works ([live](https://nikolays.github.io/PGSimCity/)).
+- 🎬 [pgfilm](https://github.com/NikolayS/pgfilm) — Procedurally generated short films about Postgres: every frame drawn by code, synthesized music, claims verified against primary sources.
+- 🌿 [samogrow](https://github.com/NikolayS/samogrow) — A self-hosted, AI-controlled indoor herb garden built from a camera, smart plugs, and one Bun service ([brief](https://nikolays.github.io/samogrow/)).
+- 🖥️ [samohost](https://github.com/NikolayS/samohost) — Operator-local CLI for provisioning hardened Linux VMs, deploying apps, and creating per-branch preview environments.
+- 🎥 [samograph](https://github.com/NikolayS/samograph) — Lets AI agents join Zoom and Google Meet calls to listen, respond, and take action in real time.
+- 📝 [samospec](https://github.com/NikolayS/samospec) — Git-native CLI for multi-AI spec creation and iterative refinement.
+- 🛠️ [Hacking Postgres](https://github.com/NikolayS/hacking-postgres) — Public workbench for Postgres hacking sessions, patches, progress, blockers, and TODOs ([live](https://hacking.postgres.tv/)).
+- 🖥️ [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant.
+- 🔧 [postgres_dba](https://github.com/NikolayS/postgres_dba) — Practical Postgres DBA tools for debugging, maintenance, and operations.
+- 🪶 [leandex](https://github.com/NikolayS/leandex) — keep your Postgres indexes lean.
+- 🗞️ [gitzette](https://github.com/NikolayS/gitzette) — Weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online)).
+- ☕ [simbucks](https://github.com/NikolayS/simbucks) — A first-person barista simulator in the browser: run an airport coffee kiosk through the morning rush ([play](https://nikolays.github.io/simbucks/)).
+
+### PoCs and prototypes
+
+- 🛑 [pg_brakes](https://github.com/NikolayS/pg_brakes) — Rust safety gateway between AI agents and Postgres, with bounded reads, certified writes, human approval, and tamper-evident auditing.
+- 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
+- 📊 [pgseries](https://github.com/NikolayS/pgseries) — A light alternative to TimescaleDB that works in any Postgres: pure SQL/PLpgSQL time-series for PG17+ ([brief](https://nikolays.github.io/pgseries/)).
 
 ## PostgresAI
 
-- [Monitoring & Checkup](https://github.com/postgres-ai/postgresai) — find database risks and prioritize fixes.
-- [DBLab Engine](https://github.com/postgres-ai/database-lab-engine) — test changes on thin clones of your Postgres database.
+Building software for self-driving Postgres.
 
-**Customer evidence:** Supabase reports achieving **7 TiB/hour restore speeds** with PostgresAI's help. [Customer testimonials](https://postgres.ai/) · [Case study: GitLab](https://postgres.ai/resources/) · [Security & compliance](https://postgres.ai/security/)
+- [PostgresAI Monitoring and Checkup](https://github.com/postgres-ai/postgresai) — Postgres observability built for humans and AI agents.
+- [DBLab Engine](https://github.com/postgres-ai/database-lab-engine) — Database branching & thin cloning for any Postgres database.
 
-## Postgres track record
+## Postgres contributions
 
-[Postgres core contributor](https://www.postgresql.org/community/contributors/) · [SQL/XML, GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support) · [Postgres Hacking](https://hacking.postgres.tv/) · [Wait-event research](https://gaps.wait.events/)
-
-## Selected open source
-
-- [postgres_dba](https://github.com/NikolayS/postgres_dba) — practical DBA diagnostics and maintenance tools.
-- [PgQue](https://github.com/NikolayS/PgQue) — a Postgres queue inspired by Skype's [PgQ](https://github.com/pgq/pgq).
-- [pg_ash](https://github.com/NikolayS/pg_ash) — active-session history and wait-event sampling.
-- [rpg](https://github.com/NikolayS/rpg) — a Postgres terminal with DBA diagnostics.
+- 🎥 [Postgres Hacking sessions](https://hacking.postgres.tv/) — live deep-dives on Postgres internals on PostgresTV ([YouTube playlist](https://www.youtube.com/playlist?list=PLH8y1BNPAKjKDdJA7sDmFWUkbbYux3TRz))
+- 📊 [gaps.wait.events](https://gaps.wait.events/) — tracking uninstrumented Postgres wait events
+- 🧠 [Significant contributor](https://www.postgresql.org/community/contributors/) to Postgres core — patches and reviews across multiple releases
+- 📜 [GSoC 2006](https://wiki.postgresql.org/wiki/XML_Support) — SQL/XML 2003 support (mentored by Peter Eisentraut) — my first deep dive into Postgres internals
 
 ## Writing & community
 
-[PostgresFM](https://postgres.fm) · [PostgresTV](https://youtube.com/@PostgresTV) · [#PostgresMarathon](https://postgres.ai/blog) · [LinkedIn](https://www.linkedin.com/in/samokhvalov) · [GitLab](https://gitlab.com/NikolayS) · [X](https://x.com/samokhvalov)
-
-<details>
-<summary>Personal lab — experiments, prototypes, and side projects</summary>
-
-Separate from the PostgresAI product offering; see each repository for status and scope.
-
-- [PGSimCity](https://github.com/NikolayS/PGSimCity) — Postgres as an explorable city.
-- [pgfilm](https://github.com/NikolayS/pgfilm) — code-generated Postgres films.
-- [samogrow](https://github.com/NikolayS/samogrow) — AI-controlled indoor garden.
-- [samohost](https://github.com/NikolayS/samohost) — VM provisioning and preview deployments.
-- [samograph](https://github.com/NikolayS/samograph) — meeting agents.
-- [samospec](https://github.com/NikolayS/samospec) — collaborative specification tooling.
-- [leandex](https://github.com/NikolayS/leandex) — leaner Postgres indexes.
-- [gitzette](https://github.com/NikolayS/gitzette) — an engineering newspaper from GitHub activity.
-- [simbucks](https://github.com/NikolayS/simbucks) — browser-based barista simulator.
-
-**PoCs and prototypes:** [pg_brakes](https://github.com/NikolayS/pg_brakes) · [sqlever](https://github.com/NikolayS/sqlever) · [pgseries](https://github.com/NikolayS/pgseries)
-
-</details>
+- ✍️ [#PostgresMarathon](https://postgres.ai/blog) — deep-dive series on Postgres internals
+- 🎙️ [PostgresFM](https://postgres.fm) — podcast
+- 📺 [PostgresTV](https://youtube.com/@PostgresTV) — YouTube
+- 💼 [Nik Samokhvalov](https://www.linkedin.com/in/samokhvalov) on LinkedIn
+- 🐙 [GitHub](https://github.com/NikolayS) — this page
+- 🦊 [GitLab](https://gitlab.com/NikolayS) profile
+- 🐦 [@samokhvalov](https://x.com/samokhvalov) on X
