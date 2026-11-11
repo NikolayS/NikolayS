@@ -21,12 +21,12 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 - 🛠️ [Hacking Postgres](https://github.com/NikolayS/hacking-postgres) — Public workbench for Postgres hacking sessions, patches, progress, blockers, and TODOs ([live](https://hacking.postgres.tv/)).
 - 🖥️ [rpg](https://github.com/NikolayS/rpg) — Modern Postgres terminal written in Rust. psql-compatible, with built-in DBA diagnostics and AI assistant.
 - 🔧 [postgres_dba](https://github.com/NikolayS/postgres_dba) — Practical Postgres DBA tools for debugging, maintenance, and operations.
-- 🪶 [leandex](https://github.com/NikolayS/leandex) — keep your Postgres indexes lean.
-- 🗞️ [gitzette](https://github.com/NikolayS/gitzette) — Weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online)).
-- ☕ [simbucks](https://github.com/NikolayS/simbucks) — A first-person barista simulator in the browser: run an airport coffee kiosk through the morning rush ([play](https://nikolays.github.io/simbucks/)).
 
 ### PoCs and prototypes
 
+- 🪶 [leandex](https://github.com/NikolayS/leandex) — keep your Postgres indexes lean.
+- 🗞️ [gitzette](https://github.com/NikolayS/gitzette) — Weekly engineering newspaper auto-generated from any GitHub user's activity ([live](https://gitzette.online)).
+- ☕ [simbucks](https://github.com/NikolayS/simbucks) — A first-person barista simulator in the browser: run an airport coffee kiosk through the morning rush ([play](https://nikolays.github.io/simbucks/)).
 - 🛑 [pg_brakes](https://github.com/NikolayS/pg_brakes) — Rust safety gateway between AI agents and Postgres, with bounded reads, certified writes, human approval, and tamper-evident auditing.
 - 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
 - 📊 [pgseries](https://github.com/NikolayS/pgseries) — A light alternative to TimescaleDB that works in any Postgres: pure SQL/PLpgSQL time-series for PG17+ ([brief](https://nikolays.github.io/pgseries/)).
