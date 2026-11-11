@@ -8,7 +8,7 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 
 ## Selected projects
 
-- 🧪 [pgaibench](https://github.com/NikolayS/pgaibench) — Benchmarking how safely AI models plan Postgres operations changes, with lab rehearsals under load (v0.1 preview).
+- 🧪 [pgaibench](https://github.com/NikolayS/pgaibench) — Benchmarking how safely AI models plan Postgres operations changes.
 - 🧵 [PgQue](https://github.com/NikolayS/PgQue) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
 - 🌈 [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
 - 🏙️ [PGSimCity](https://github.com/NikolayS/PGSimCity) — An explorable 3D city that shows how Postgres actually works ([live](https://nikolays.github.io/PGSimCity/)).
