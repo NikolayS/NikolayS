@@ -8,10 +8,10 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 
 ## Selected projects
 
-- 🔥 [pgroast](https://github.com/NikolayS/pgroast) — AI devil’s advocate for Postgres proposals: challenges the idea and design, not the code.
 - 🎯 [pgaibench](https://github.com/NikolayS/pgaibench) — Benchmarking how safely AI models plan Postgres operations changes ([website](https://pgaibench.dev/)).
 - 🧵 [PgQue](https://github.com/NikolayS/PgQue) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
 - 🌈 [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
+- 🔥 [pgroast](https://github.com/NikolayS/pgroast) — AI devil’s advocate for Postgres proposals: challenges the idea and design, not the code.
 - 🏙️ [PGSimCity](https://github.com/NikolayS/PGSimCity) — An explorable 3D city that shows how Postgres actually works ([live](https://nikolays.github.io/PGSimCity/)).
 - 🎬 [pgfilm](https://github.com/NikolayS/pgfilm) — Procedurally generated short films about Postgres: every frame drawn by code, synthesized music, claims verified against primary sources.
 - 🌿 [samogrow](https://github.com/NikolayS/samogrow) — A self-hosted, AI-controlled indoor herb garden built from a camera, smart plugs, and one Bun service ([brief](https://nikolays.github.io/samogrow/)).
