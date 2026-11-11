@@ -26,6 +26,7 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 
 ### PoCs and prototypes
 
+- 🔥 [pgroast](https://github.com/NikolayS/pgroast) — AI devil’s advocate for Postgres proposals: challenges the idea and design, not the code.
 - 🛑 [pg_brakes](https://github.com/NikolayS/pg_brakes) — Rust safety gateway between AI agents and Postgres, with bounded reads, certified writes, human approval, and tamper-evident auditing.
 - 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
 - 📊 [pgseries](https://github.com/NikolayS/pgseries) — A light alternative to TimescaleDB that works in any Postgres: pure SQL/PLpgSQL time-series for PG17+ ([brief](https://nikolays.github.io/pgseries/)).
