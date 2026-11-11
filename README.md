@@ -8,6 +8,7 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 
 ## Selected projects
 
+- 🔥 [pgroast](https://github.com/NikolayS/pgroast) — AI devil’s advocate for Postgres proposals: challenges the idea and design, not the code.
 - 🎯 [pgaibench](https://github.com/NikolayS/pgaibench) — Benchmarking how safely AI models plan Postgres operations changes ([website](https://pgaibench.dev/)).
 - 🧵 [PgQue](https://github.com/NikolayS/PgQue) — Zero-bloat Postgres queue. No extensions. No daemon. One SQL file. A revival of [PgQ](https://github.com/pgq/pgq), ancient art from Skype.
 - 🌈 [pg_ash](https://github.com/NikolayS/pg_ash) — Active Session History for Postgres — wait event sampling with zero bloat.
@@ -26,7 +27,6 @@ I build tools, write, and go deep on Postgres internals, performance, and operat
 
 ### PoCs and prototypes
 
-- 🔥 [pgroast](https://github.com/NikolayS/pgroast) — AI devil’s advocate for Postgres proposals: challenges the idea and design, not the code.
 - 🛑 [pg_brakes](https://github.com/NikolayS/pg_brakes) — Rust safety gateway between AI agents and Postgres, with bounded reads, certified writes, human approval, and tamper-evident auditing.
 - 🧱 [sqlever](https://github.com/NikolayS/sqlever) — Sqitch-compatible Postgres migration tool with static analysis and zero-downtime migrations.
 - 📊 [pgseries](https://github.com/NikolayS/pgseries) — A light alternative to TimescaleDB that works in any Postgres: pure SQL/PLpgSQL time-series for PG17+ ([brief](https://nikolays.github.io/pgseries/)).
